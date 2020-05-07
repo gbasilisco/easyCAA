@@ -18,7 +18,7 @@ You can download the directory of project and, with a double-click on `index.htm
  - `js/config.js` is the configuration of the application. You can set language from Castellano, Ingles, Frances, Catalan, Italiano, Aleman, Portugues, Portugues Brasil, Gallego, Euskera. **Default is Italiano**
  - `js/easyCAAcore.js` is the core of the application.
 
-# Run
+# How to you use
 
 ### offline
 
