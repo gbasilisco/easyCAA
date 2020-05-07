@@ -1,0 +1,22 @@
+body {
+  font: Verdana;
+}
+
+.input {
+  color: #403866;
+  line-height: 1.2;
+  font-size: 18px;
+  width: 95%;
+  height: 62px;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.picto {
+  display: inline-block;
+  border: 2px solid gray;
+  margin-bottom: 6px;
+  font-size: 30px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 5px 10px 5px #dedede;
+  font: Verdana;
+}
