@@ -24,13 +24,13 @@ You can download the directory of project and, with a double-click on `index.htm
 
  1. download **easyCCA** from github
      `git clone https://github.com/gbasilisco/easyCAA.git` or download  directly from `https://github.com/gbasilisco/easyCAA/archive/master.zip`
- 2. open directory `easyCCA` or unzip zip file downloaded and double click on `index.html` file 
+ 2. open directory `easyCCA`, or unzip zip file downloaded, and double click on `index.html` file 
  3. write in the field the words and see the associate pictograms
 
 ### on your webserver
 
- 1. download easyCCA from github
-     `git clone https://github.com/gbasilisco/easyCAA.git` or download directly
+ 1. download **easyCCA** from github
+     `git clone https://github.com/gbasilisco/easyCAA.git` or download  directly from `https://github.com/gbasilisco/easyCAA/archive/master.zip`
  2. copy directory `easyCCA` into your webroot (e.g. on apache `htdocs`)
  3. open your browser and access to root URL (e.g http://localhost:8080/easyCCA) and go to index.html page
  4. write in the field the words and see the associate pictograms
