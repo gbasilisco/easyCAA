@@ -51,7 +51,7 @@ Built with pure HTML and JQuery-1.12.4
 In the  [Issue](https://github.com/gbasilisco/easyCAA/issues)  section of this repository I constantly add bugs to fix or new features to develop. You can fork this repository and start develop as a contributor.
 Moreover you can send an email to info@softnew.it to collaborate.
 
-In particular if do you want add new pictogram and new word, you have to modify the `imagesEasyDB.js` and add new image into `IT_simboli_arasaac_colori`
+In particular if do you want add new pictograms and new words, you have to modify the `imagesEasyDB.js` and add new images into `IT_simboli_arasaac_colori`
 
 This is an item's example:
 
