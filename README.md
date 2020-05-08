@@ -91,3 +91,4 @@ This is an item's example:
 ### License
 
 This project is released under GNU GPL license as you can check in LICENSE.txt file.
+The images stored in `IT_simboli_arasaac_colori` directory, are under Creative Commons license (BY-NC-SA) as you can check in legalcode.txt file.
