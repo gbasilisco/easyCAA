@@ -37,7 +37,7 @@ You can download the directory of project and, with a double-click on `index.htm
  
 ### online
 
- 1. open your browser go to http://....... (working in progress)
+ 1. open your browser go to https://easycaa-2872b.web.app (you must be use a Google account to sign-in)
  2. write in the field the words and see the associate pictograms
 
 # General Informations
