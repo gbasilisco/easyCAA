@@ -13,8 +13,8 @@ You can download the directory of project and, with a double-click on `index.htm
 # Files
 
  - `index.html` is the main of **easyCCA**
- - in the folder `IT_simboli_arasaac_colori` there are the pictograms from **AraWord** projects
- - `js/imagesEasyDB.js` is the configuration file to associate the words vs pictograms. This file comes from **AraWord** projects in details from `imagesEasy.xml` file
+ - in the folder `IT_simboli_arasaac_colori` there are the pictograms from **AraWord** projects. easyCCA uses pictograms from ARASAAC, owned by Aragón Government, distributed under a Creative Commons license (BY-NC-SA).
+ - `js/imagesEasyDB.js` is the configuration file to associate the words vs pictograms. This file comes from **AraWord** projects in details from `imagesEasy.xml` file 
  - `js/config.js` is the configuration of the application. You can set language from Castellano, Ingles, Frances, Catalan, Italiano, Aleman, Portugues, Portugues Brasil, Gallego, Euskera. **Default is Italiano**
  - `js/easyCAAcore.js` is the core of the application.
 
